@@ -14,7 +14,7 @@ python3 pywad.py build mywad1 mywad2 mywad1-2.wad
 
 *Builds a new wad file from folder.
 
-*Merges multiple wad folders into a megawad.
+*Merges multiple wad folders into a multi map wad or megawad.
 
 
 Commands explained:
