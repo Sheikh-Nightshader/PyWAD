@@ -22,6 +22,8 @@ BANNER = f"""{RED}
    ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
 
                 Version 1.1
+                
+"For those who craft Hell itself, one lump at a time"
 
 PyWAD Python WAD Tool - By Sheikh Nightshader
 {RESET}
