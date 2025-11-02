@@ -1,3 +1,7 @@
+PyWAD
+
+"For those who craft Hell itself, one lump at a time."
+
 PyWAD a Doom WAD Builder and Extractor
 
 
